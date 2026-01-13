@@ -5,11 +5,6 @@
   <img src="https://img.shields.io/badge/Excel-Analytics-brightgreen" />
 </p>
 
-<h2 align="center">📊 Data Analyst Portfolio</h2>
-<p align="center">
-  Real-world SQL, Power BI & Analytics projects
-</p>
-
 
 # Hi, I'm Diksha Jeena 👋
 
