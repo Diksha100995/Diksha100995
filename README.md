@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-MySQL-blue" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow" />
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-green" />
+  <img src="https://img.shields.io/badge/Excel-Analytics-brightgreen" />
+</p>
+
+<h2 align="center">📊 Data Analyst Portfolio</h2>
+<p align="center">
+  Real-world SQL, Power BI & Analytics projects
+</p>
+
+
 # Hi, I'm Diksha Jeena 👋
 
 🎯 **Data Analyst** | SQL | Python | Power BI  
