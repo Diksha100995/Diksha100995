@@ -21,7 +21,7 @@ that support data-driven decision-making.
 
 ## 📊 Featured Projects
 
-## 🚀 Featured Project – Training Engagement Analytics
+## 🚀  Training Engagement Analytics
 
 <p align="center">
   <a href="https://github.com/Diksha100995/Training-Engagement-Analysis">
