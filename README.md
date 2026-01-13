@@ -21,6 +21,26 @@ that support data-driven decision-making.
 
 ## 📊 Featured Projects
 
+## 🚀 Featured Project – Training Engagement Analytics
+
+<p align="center">
+  <a href="https://github.com/Diksha100995/Training-Engagement-Analysis">
+    <img src="https://raw.githubusercontent.com/Diksha100995/Training-Engagement-Analysis/main/ABL_PROJECT/IMAGES/dashboard.png" width="900"/>
+  </a>
+</p>
+
+### 📊 Training Engagement Analysis
+An end-to-end **SQL + Power BI** project analyzing CRM training data.
+
+🔹 Cleaned raw CRM data using SQL  
+🔹 Built KPIs: Reply Rate, Lead Performance, Location & Gender analysis  
+🔹 Created interactive Power BI dashboard  
+🔹 Published project on GitHub
+
+👉 **View Project:**  
+https://github.com/Diksha100995/Training-Engagement-Analysis
+
+
 ### 🔹 Sales Funnel Analysis (SQL + Power BI)
 Analyzed sales funnel performance and built interactive dashboards
 to identify conversion drop-offs and team productivity.  
